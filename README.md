@@ -208,7 +208,7 @@ Persist Across Sessions
 - **Percentage Calculations**: Real-time 24h change percentages
 
 #### Connection Monitoring
-- **Status Badge**: Shows "Connecting", "Connected", "Disconnected", or "Reconnecting"
+- **Status Badge**: Shows "Live", "Disconnected", or "Reconnecting"
 - **Visual Feedback**: Animated pulse indicator for live connections
 - **Manual Control**: Retry button available when disconnected
 - **Graceful Handling**: Skeleton loading during connection issues
